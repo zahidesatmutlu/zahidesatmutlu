@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I determine myself as highly motivated and passionate person who is always looking for ways to continue learning and improving my professional skills. I am target oriented, persistent and stable about what I do. My professional areas of expertise are artificial intelligence, machine learning and computer vision. During my education, I have gained and continue to gain many engineering experiences from competitions and events, either alone or with my team. I have experiences in teamwork, managing multidisciplinary projects and working under pressure. Besides that, developing software for defense industry of our country is my biggest dream.</p>
+<p align="left">• I am a highly motivated, goal-oriented engineer specializing in artificial intelligence, deep learning, and computer vision. 💻<br><br>• Throughout my education, I’ve gained valuable engineering experience in competitions and events, both individually and as part of a team, always striving for continuous growth. I am skilled in managing multidisciplinary projects, teamwork, and performing well under pressure. 📚<br><br>• My ultimate dream is to develop software for our country’s defense industry. 🚀</p>
 
 ###
 
@@ -76,8 +76,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -91,6 +89,16 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="center">👀 Profile Views</h3>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/zahidesatmutlu/count.svg?"  />
 </div>
 
 ###
