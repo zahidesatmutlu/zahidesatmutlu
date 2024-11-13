@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahidesatmutlu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidesatmutlu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/zahidesatmutlu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -42,6 +35,13 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">• I am a highly motivated, goal-oriented engineer specializing in artificial intelligence, deep learning, and computer vision. 💻<br><br>• Throughout my education, I’ve gained valuable engineering experience in competitions and events, both individually and as part of a team, always striving for continuous growth. I am skilled in managing multidisciplinary projects, teamwork, and performing well under pressure. 📚<br><br>• My ultimate dream is to develop software for our country’s defense industry. 🚀</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidesatmutlu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidesatmutlu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
