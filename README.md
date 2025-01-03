@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">• I am a highly motivated, goal-oriented engineer specializing in artificial intelligence, deep learning, and computer vision. 💻<br><br>• Throughout my education, I’ve gained valuable engineering experience in competitions and events, both individually and as part of a team, always striving for continuous growth. I am skilled in managing multidisciplinary projects, teamwork, and performing well under pressure. 📚<br><br>• My ultimate dream is to develop software for our country’s defense industry. 🚀</p>
+<p align="left">• I am a highly motivated, goal-oriented engineer specializing in artificial intelligence, deep learning, and computer vision. 💻<br><br>• Throughout my education, I’ve gained valuable engineering experience in competitions and events, both individually and as part of a team, always striving for continuous growth. I am skilled in managing multidisciplinary projects, teamwork, and performing well under pressure. 📚<br>
 
 ###
 
